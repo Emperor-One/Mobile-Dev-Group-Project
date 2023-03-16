@@ -8,7 +8,7 @@
 | Nathan Ezra       | UGR/5222/13  |
 | Tinsae Shemalise  | UGR/6075/13  |
 
-## Project Title: Testing 123
+## Project Title: Bus Ticket Booking App
 
 #### Project Description
   Testing 123
